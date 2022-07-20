@@ -3,7 +3,6 @@ title: Introduction
 description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
-*** TEST VERSION (Git Branch is "test") ***
 
 **Welcome!**
 
