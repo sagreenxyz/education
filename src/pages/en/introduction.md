@@ -4,23 +4,12 @@ description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Astro!**
+**Developer's Notes**
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+Live Versions for 
+Test:  [link](https://symphonious-moonbeam-6651a7.netlify.app/en/introduction/) and 
+Production:  [link](https://clever-quokka-153e86.netlify.app/en/introduction/#getting-started)
 
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
+## Introduction
 
-## Getting Started
-
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
-
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
-
-Good luck out there, Astronaut. 🧑‍🚀
+My intent with the site is to consolidate information necessary to learn for becoming a fluent web developer (to the extent that the audience becomes "fluent" enough to get by - it takes considerable experience to graduate past fluency to become "proficient."  But, that's another topic.  Originally, my intent was to make this site a learning path that documents what resources are where, and act as a sequential checklist of what path to take.  There is so much content and so many rabbit holes, that staying focused requires some sort of plan - a knowledge-informed plan that can focus the learner on what concepts and skills are essential.  I find myself at this point taking on advanced topics with interest, but needing considerable review of the fundamentals to be proficient enough to tackle the advanced topic at hand.  This website is the tool I intend to develop for that purpose.
