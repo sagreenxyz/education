@@ -34,13 +34,50 @@ export const GITHUB_EDIT_URL = `https://github.com/sagreenxyz/education/blob/mai
 
 export const SIDEBAR = {
 	en: [
-		{ text: '', header: true },
-		{ text: 'Section Header', header: true },
-		{ text: 'Introduction', link: 'en/introduction' },
-		{ text: 'Page 2', link: 'en/page-2' },
-		{ text: 'Page 3', link: 'en/page-3' },
+		{ text: 'Introduction', header: true },
+		{ text: 'Overview', link: 'en/introduction' },
 
-		{ text: 'Another Section', header: true },
-		{ text: 'Page 4', link: 'en/page-4' },
+		
+		{ text: 'Basics', header: true },
+		{ text: 'HTML', link: 'en/' },
+		{ text: 'CSS', link: 'en/' },
+		{ text: 'JavaScript', link: 'en/' },
+
+		{ text: 'Intermediate JavaScript', header: true },
+		{ text: 'Destructuring and Spread Operator', link: 'en/' },
+		{ text: 'Asynchronous JavaScript', link: 'en/' },
+		{ text: 'Fetch API', link: 'en/' },
+		{ text: 'Modules', link: 'en/' },
+		{ text: 'Nodejs and Node Package Manager', link: 'en/' },
+		
+		{ text: 'REST API and Databases', header: true },
+		{ text: 'JSON Data', link: 'en/' },
+		{ text: 'Express', link: 'en/' },
+		{ text: 'Document Databases', link: 'en/' },
+		{ text: 'MongoDB', link: 'en/' },
+		{ text: 'Mongoose (ODM)', link: 'en/' },
+		{ text: 'MongoDB Atlas', link: 'en/' },
+		{ text: 'SQL Databases', link: 'en/' },
+		{ text: 'PostgreSQL', link: 'en/' },
+		{ text: 'Prisma (ORM)', link: 'en/' },
+		{ text: 'Supabase', link: 'en/' },
+		{ text: 'SQLite', link: 'en/' },
+		{ text: 'Redis', link: 'en/' },
+
+		{ text: 'Front-End Libraries and Frameworks', header: true },
+		{ text: 'React', link: 'en/' },
+		{ text: 'Astro', link: 'en/' },
+		{ text: 'NextJS', link: 'en/' },
+
+		{ text: 'Libaries', header: true },
+		{ text: 'BootstrapCSS and Components', link: 'en/' },
+		{ text: 'TailwindCSS and HeadlessUI', link: 'en/' },
+		{ text: 'Styled Components', link: 'en/' },
+		{ text: 'MaterialUI', link: 'en/' },
+
+
+		{ text: 'Resources', header: true },
+		{ text: 'Fonts', link: 'en/' },
+		{ text: 'Icons', link: 'en/' },
 	],
 };
